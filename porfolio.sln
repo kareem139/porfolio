@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30225.117
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "porfolio", "porfolio\porfolio.csproj", "{611D5A2F-01C0-4855-949F-604E305A878D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "infrastructure", "infrastructure\infrastructure.csproj", "{A255FAEC-FD2B-4425-AC63-03D894EF234A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "core", "core\core.csproj", "{9F022529-9FB7-44E5-98CA-56823715A91A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{611D5A2F-01C0-4855-949F-604E305A878D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{611D5A2F-01C0-4855-949F-604E305A878D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{611D5A2F-01C0-4855-949F-604E305A878D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{611D5A2F-01C0-4855-949F-604E305A878D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A255FAEC-FD2B-4425-AC63-03D894EF234A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A255FAEC-FD2B-4425-AC63-03D894EF234A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A255FAEC-FD2B-4425-AC63-03D894EF234A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A255FAEC-FD2B-4425-AC63-03D894EF234A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9F022529-9FB7-44E5-98CA-56823715A91A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F022529-9FB7-44E5-98CA-56823715A91A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F022529-9FB7-44E5-98CA-56823715A91A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F022529-9FB7-44E5-98CA-56823715A91A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {38CF2DC8-421B-40C6-A56C-BEE6CCA65364}
+	EndGlobalSection
+EndGlobal
